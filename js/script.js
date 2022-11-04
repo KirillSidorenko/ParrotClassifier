@@ -1,4 +1,4 @@
-// Change this to your classification URL
+
 const classificationEndpoint = "https://kirillsid-parrotclassifier.hf.space/api/predict"
 
 function dataUrlFromFile(file) {
